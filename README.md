@@ -12,5 +12,3 @@ Projeto JavaFX para gerenciamento de livros e autores.
   - `App`: Classe principal para iniciar a aplicação.
   - `model`: Pacote contendo as classes de modelo (Livros, Autores).
   - `data`: Pacote contendo classes de acesso a dados (LivrosDao, AutoresDao).
-
-## Contribuições
