@@ -1,14 +1,14 @@
-Projeto JavaFX para gerenciamento de livros e autores.
+# JavaFX Project for Book and Author Management
 
-## Configuração
+## Configuration
 
-1. **JavaFX:** Certifique-se de ter o JavaFX configurado corretamente.
-2. **Banco de Dados:** Configure as informações de conexão ao banco de dados no `LivrosDao` e `AutoresDao`.
-3. **Compilação e Execução:** Utilize a classe `App` para iniciar a aplicação.
+1. **JavaFX:** Ensure that you have JavaFX configured correctly.
+2. **Database:** Configure the database connection information in the `LivrosDao` and `AutoresDao`.
+3. **Compilation and Execution:** Utilize the `App` class to start the application.
 
-## Estrutura do Projeto
+## Project Structure
 
-- `com.example`: Pacote principal.
-  - `App`: Classe principal para iniciar a aplicação.
-  - `model`: Pacote contendo as classes de modelo (Livros, Autores).
-  - `data`: Pacote contendo classes de acesso a dados (LivrosDao, AutoresDao).
+- `com.example`: Main package.
+  - `App`: Main class to start the application.
+  - `model`: Package containing model classes (Livros, Autores).
+  - `data`: Package containing data access classes (LivrosDao, AutoresDao).
