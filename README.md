@@ -1,5 +1,9 @@
 # JavaFX Project for Book and Author Management
 
+## Screenshots
+
+![Screenshot da Aplicação](https://github.com/mthaugusto/javafx-library/blob/main/javafx-library-screenshot.png?raw=true)
+
 ## Configuration
 
 1. **JavaFX:** Ensure that you have JavaFX configured correctly.
